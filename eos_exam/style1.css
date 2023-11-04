@@ -1,0 +1,13 @@
+body
+{
+    background-color: pink;
+
+}
+.image
+{
+    width: 600px;
+    height: 600px;
+    margin-left:410px ;
+    padding-left: 50px;
+    padding-top: 100px;
+}
